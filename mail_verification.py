@@ -17,8 +17,8 @@ otp_copy = str(otp)
 
 # mail
 
-sender_id = "mailforprogram01@gmail.com"
-sender_password = "cjztnvtuqondgtks"
+sender_id = "example@gmail.com"
+sender_password = "*************" #app password
 
 # Reciver mail with lowercase
 
